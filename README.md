@@ -23,7 +23,9 @@ This is a rebuild of **[Shaun Inman](https://shauninman.com)'s** original [Littl
 
 ## Install (prebuilt download)
 
-1. Download `Little-Fingers-1.1-universal.zip` from [Releases](../../releases), unzip it, and move **Little Fingers.app** to `/Applications`.
+1. Download from [Releases](../../releases), using either file:
+   - `Little-Fingers-1.1-universal.dmg`: open it and drag **Little Fingers.app** onto the **Applications** shortcut, or
+   - `Little-Fingers-1.1-universal.zip`: unzip it and move **Little Fingers.app** to `/Applications`.
 2. The app is ad-hoc signed and not notarized, so macOS will block the first launch. To allow it, do one of the following:
    - Try to open the app, then go to **System Settings → Privacy & Security** and click **Open Anyway**, or
    - Run:

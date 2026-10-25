@@ -5,6 +5,7 @@ DerivedData/
 # Built app bundle and release archive (shipped via GitHub Releases)
 Little Fingers.app/
 Little-Fingers-*.zip
+Little-Fingers-*.dmg
 
 # Xcode user state
 xcuserdata/
